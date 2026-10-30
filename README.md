@@ -1,10 +1,10 @@
-<img src="assets/abdullah-hero.svg" alt="Abdullah Siddiqui — AI/ML Engineer | Full-Stack Developer" width="100%" />
+<img src="assets/abdullah-hero.svg" alt="Abdullah Siddiqui — AI/ML Engineer" width="100%" />
 
 <div align="center">
   <h1>Abdullah Siddiqui</h1>
   <p>
-    <strong>AI/ML Engineer | Full-Stack Developer</strong><br>
-    BScs — Iqra University
+    <strong>AI/ML Engineer</strong><br>
+    BSCS — Iqra University
   </p>
 </div>
 
@@ -12,7 +12,7 @@ I design and build thoughtful digital experiences at the intersection of intelli
 
 ## Education
 
-- BScs — Iqra University
+- BSCS — Iqra University
 
 ## Verified achievements and certifications
 
@@ -29,7 +29,7 @@ This profile has been reviewed against the available public materials and curren
 - Intelligent workflow design
 - Applied problem-solving for data-driven experiences
 
-### Full-stack development
+### Product & systems engineering
 - Product-centric web applications
 - Interface and system integration
 - End-to-end software delivery
