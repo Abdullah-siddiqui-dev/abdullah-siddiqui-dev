@@ -1,63 +1,59 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=abdullah-siddiqui-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F349444821%3Fv%3D4" alt="abdullah-siddiqui-dev hero visual" />
-</p>
+<img src="assets/abdullah-hero.svg" alt="Abdullah Siddiqui — AI/ML Engineer | Full-Stack Developer" width="100%" />
 
-<p align="center">
-  <b>abdullah-siddiqui-dev</b>
-  <br/>
-  Product-minded developer
-  <br/>
-  <sub>Building in public on GitHub.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/abdullah-siddiqui-dev">GitHub</a>
-</p>
-
-<details open>
-  <summary><b>📌 Top projects</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://www.gitskins.com/api/section/projects?username=abdullah-siddiqui-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F349444821%3Fv%3D4" alt="abdullah-siddiqui-dev projects visual" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🧰 Stack</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://www.gitskins.com/api/section/stack?username=abdullah-siddiqui-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F349444821%3Fv%3D4" alt="abdullah-siddiqui-dev stack visual" />
-  </p>
-</details>
-
-<details>
-  <summary><b>📊 By the numbers</b></summary>
-  <br/>
+<div align="center">
+  <h1>Abdullah Siddiqui</h1>
   <p>
-    <b>0</b> public repositories, <b>0</b> stars, <b>1</b> contribution in the last year, a longest streak of <b>1</b> day and <b>0</b> followers.
+    <strong>AI/ML Engineer | Full-Stack Developer</strong><br>
+    BScs — Iqra University
   </p>
+</div>
 
-  <p align="center">
-    <img src="https://www.gitskins.com/api/section/stats?username=abdullah-siddiqui-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F349444821%3Fv%3D4" alt="abdullah-siddiqui-dev stats visual" />
-  </p>
-</details>
+I design and build thoughtful digital experiences at the intersection of intelligent systems and product-minded engineering. My focus is on bringing AI-driven ideas into usable, reliable, polished software.
 
-<details>
-  <summary><b>🟩 Activity</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://www.gitskins.com/api/section/heatmap?username=abdullah-siddiqui-dev&theme=neon" alt="abdullah-siddiqui-dev contribution activity" />
-  </p>
-</details>
+## Education
 
-<details>
-  <summary><b>👋 Say hello</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://www.gitskins.com/api/section/social?username=abdullah-siddiqui-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F349444821%3Fv%3D4" alt="abdullah-siddiqui-dev social visual" />
-  </p>
-</details>
+- BScs — Iqra University
 
-<p align="center">
-  <sub>abdullah-siddiqui-dev · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
-</p>
+## Verified achievements and certifications
+
+This profile has been reviewed against the available public materials and current repository context. No additional certifications or formal achievements were present in the supplied information to include here.
+
+## Selected work
+
+- <a href="https://github.com/Abdullah-siddiqui-dev/abdullah-siddiqui-dev">Profile repository</a> — personal GitHub profile and digital identity
+
+## Skill focus areas
+
+### AI / ML
+- AI product thinking
+- Intelligent workflow design
+- Applied problem-solving for data-driven experiences
+
+### Full-stack development
+- Product-centric web applications
+- Interface and system integration
+- End-to-end software delivery
+
+### Engineering practice
+- Git-based collaboration
+- Iterative development
+- Maintainable, user-focused implementation
+
+## GitHub activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-siddiqui-dev&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&area_color=701A3D&area=true&hide_border=true" alt="GitHub activity graph for Abdullah Siddiqui" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-siddiqui-dev&show_icons=true&theme=radical&hide_border=true&bg_color=10070C&title_color=F8F0F3&text_color=E5B5C7&icon_color=C77B9B" alt="GitHub stats for Abdullah Siddiqui" />
+</div>
+
+## Profiles and links
+
+- <a href="https://github.com/Abdullah-siddiqui-dev">GitHub</a>
+- <a href="https://github.com/Abdullah-siddiqui-dev/abdullah-siddiqui-dev">Profile repository</a>
+
+<hr />
+
+<img src="assets/abdullah-footer.svg" alt="Decorative burgundy footer accent" width="100%" />
