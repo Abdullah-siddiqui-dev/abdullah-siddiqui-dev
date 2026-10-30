@@ -1,0 +1,40 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Abdullah Siddiqui footer motif</title>
+  <desc id="desc">Minimal animated burgundy footer accent for the GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="fBg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.5" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="fLine" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E5B5C7" stop-opacity="0"/>
+      <stop offset="0.12" stop-color="#E5B5C7"/>
+      <stop offset="0.5" stop-color="#C77B9B"/>
+      <stop offset="0.88" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#E5B5C7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="fGlow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="180" rx="20" fill="url(#fBg)"/>
+  <path d="M90 92H1110" stroke="url(#fLine)" stroke-width="2" stroke-linecap="round" filter="url(#fGlow)">
+    <animate attributeName="stroke-dasharray" values="0 1200;40 1200;0 1200" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <path d="M180 124C260 64 356 128 430 78C505 28 580 130 662 88C739 48 834 132 913 100C987 70 1054 20 1092 40" stroke="#E5B5C7" stroke-opacity="0.4" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+  <circle cx="189" cy="123" r="4" fill="#F8F0F3">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="606" cy="89" r="3.5" fill="#C77B9B">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1090" cy="41" r="3.2" fill="#E5B5C7">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
