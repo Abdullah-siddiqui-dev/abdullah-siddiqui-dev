@@ -1,0 +1,127 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Abdullah Siddiqui profile banner</title>
+  <desc id="desc">Cinematic burgundy developer hero banner with subtle motion, grid, and orbital geometry.</desc>
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.5" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(905 170) rotate(90) scale(220 520)">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0.82"/>
+      <stop offset="0.35" stop-color="#701A3D" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#10070C" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="lineGrad" x1="120" y1="150" x2="700" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E5B5C7"/>
+      <stop offset="0.45" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#701A3D"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0" y1="70" x2="720" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8F0F3"/>
+      <stop offset="0.38" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#C77B9B"/>
+    </linearGradient>
+
+    <linearGradient id="underlineGrad" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E5B5C7" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#E5B5C7"/>
+      <stop offset="0.55" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#E5B5C7" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#E5B5C7" stroke-opacity="0.12"/>
+    </pattern>
+
+    <filter id="softGlow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowStrong" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 0.8 0 0 0  0 0 0.7 0 0  0 0 0 1 0" result="colored"/>
+      <feMerge>
+        <feMergeNode in="colored"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <mask id="layerMask">
+      <rect width="1400" height="420" fill="black"/>
+      <circle cx="1070" cy="210" r="120" fill="white"/>
+      <circle cx="1210" cy="120" r="90" fill="white"/>
+    </mask>
+  </defs>
+
+  <rect width="1400" height="420" fill="url(#bgGrad)"/>
+  <rect width="1400" height="420" fill="url(#grid)" opacity="0.6"/>
+  <rect width="1400" height="420" fill="url(#halo)"/>
+
+  <g opacity="0.92" mask="url(#layerMask)">
+    <circle cx="1190" cy="90" r="140" fill="#701A3D" fill-opacity="0.18"/>
+    <circle cx="1060" cy="315" r="170" fill="#451126" fill-opacity="0.2"/>
+  </g>
+
+  <g opacity="0.8">
+    <circle cx="1140" cy="170" r="110" fill="none" stroke="#E5B5C7" stroke-opacity="0.18" stroke-width="1.4"/>
+    <circle cx="1140" cy="170" r="142" fill="none" stroke="#E5B5C7" stroke-opacity="0.12" stroke-width="1.2"/>
+    <circle cx="1140" cy="170" r="174" fill="none" stroke="#E5B5C7" stroke-opacity="0.08" stroke-width="1"/>
+    <path d="M1140 0V60M1140 280V420M1028 170H1088M1192 170H1250M1060 72L1098 110M1182 230L1220 268M1060 268L1098 230M1182 110L1220 72" stroke="#E5B5C7" stroke-opacity="0.14" stroke-width="1.4"/>
+  </g>
+
+  <g filter="url(#glowStrong)">
+    <path d="M120 294C216 246 342 168 496 201C587 223 648 293 734 286C829 279 878 185 953 150C1001 128 1046 120 1110 116" stroke="url(#lineGrad)" stroke-width="2.7" stroke-linecap="round" stroke-dasharray="10 12" opacity="0.95">
+      <animate attributeName="stroke-dashoffset" from="0" to="220" dur="19s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g>
+    <path d="M120 288C198 244 326 175 494 205C590 224 648 294 736 286C829 278 881 188 953 153C995 132 1033 125 1112 117" stroke="#F8F0F3" stroke-opacity="0.16" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="1017" cy="121" r="5" fill="#C77B9B"/>
+    <circle cx="1112" cy="116" r="6" fill="#E5B5C7"/>
+    <circle cx="850" cy="246" r="3.5" fill="#F8F0F3" fill-opacity="0.9"/>
+    <circle cx="934" cy="154" r="4" fill="#F8F0F3" fill-opacity="0.8"/>
+  </g>
+
+  <g transform="translate(92 70)">
+    <text x="0" y="128" fill="url(#textGrad)" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="0.02em">Abdullah Siddiqui</text>
+    <text x="4" y="176" fill="#E5B5C7" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="0.22em">AI/ML ENGINEER | FULL-STACK DEVELOPER</text>
+    <rect x="0" y="198" width="392" height="2.2" rx="1.1" fill="url(#underlineGrad)" filter="url(#softGlow)"/>
+    <text x="0" y="246" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="400" opacity="0.86">BScs — Iqra University</text>
+    <text x="0" y="286" fill="#E5B5C7" font-family="Segoe UI, Arial, sans-serif" font-size="19" opacity="0.9">Engineering thoughtful systems at the intersection of AI, product, and code.</text>
+  </g>
+
+  <g transform="translate(990 92)" opacity="0.94">
+    <rect x="0" y="0" width="290" height="228" rx="24" fill="#10070C" fill-opacity="0.5" stroke="#E5B5C7" stroke-opacity="0.22"/>
+    <g>
+      <rect x="28" y="30" width="220" height="10" rx="5" fill="#C77B9B" fill-opacity="0.45"/>
+      <rect x="28" y="58" width="176" height="8" rx="4" fill="#E5B5C7" fill-opacity="0.34"/>
+      <rect x="28" y="92" width="216" height="74" rx="14" fill="url(#bgGrad)" stroke="#C77B9B" stroke-opacity="0.35"/>
+      <circle cx="80" cy="128" r="22" fill="#C77B9B" fill-opacity="0.28" stroke="#E5B5C7" stroke-opacity="0.45"/>
+      <path d="M69 128L76 135L94 113" stroke="#F8F0F3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="120" y="112" width="88" height="12" rx="6" fill="#F8F0F3" fill-opacity="0.76"/>
+      <rect x="120" y="134" width="62" height="10" rx="5" fill="#E5B5C7" fill-opacity="0.62"/>
+      <rect x="28" y="182" width="186" height="8" rx="4" fill="#E5B5C7" fill-opacity="0.3"/>
+    </g>
+  </g>
+
+  <g>
+    <circle cx="1107" cy="300" r="3.2" fill="#F8F0F3" fill-opacity="0.7">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1195" cy="250" r="2.7" fill="#C77B9B" fill-opacity="0.75">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1245" cy="330" r="3" fill="#E5B5C7" fill-opacity="0.8">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
